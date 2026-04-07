@@ -1,4 +1,4 @@
 # delta-demo
 
-starting project
+starting new project.
 
